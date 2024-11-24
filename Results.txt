@@ -1,0 +1,12 @@
+Time: 2023-11-23 06:43:59
+🤖Droid Name: opium ❤️Health: 100.0 🔫Weapon: bazuka
+🤖Droid Name: opiat ❤️Health: 150.0 🔫Weapon: bazuka
+🗿Droid Name: hulk  ❤️Health: 200.0  🪖Armor: 100.0 🔫Weapon: bazuka
+🗿Droid Name: monstr  ❤️Health: 180.0  🪖Armor: 110.0 🔫Weapon: bazuka
+👾Droid Name: tgk  ❤️Health: 70.0  💊Healing: 30.0 🔫Weapon: bazuka
+🤖Droid Name: opium ❤️Health: 100.0 🔫Weapon: bazuka
+🤖Droid Name: opiat ❤️Health: 150.0 🔫Weapon: bazuka
+🗿Droid Name: hulk  ❤️Health: 200.0  🪖Armor: 100.0 🔫Weapon: bazuka
+🗿Droid Name: monstr  ❤️Health: 180.0  🪖Armor: 110.0 🔫Weapon: bazuka
+👾Droid Name: tgk  ❤️Health: 70.0  💊Healing: 30.0 🔫Weapon: bazuka
+------------------------------
